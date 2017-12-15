@@ -3847,6 +3847,9 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qDQu82lR3D .mbr-gallery-item > div > span {
+  text-align: center;
+}
 .cid-qy0fvGqxqy .navbar {
   padding: .5rem 0;
   background: #333333;

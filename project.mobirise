@@ -3669,6 +3669,9 @@
               "background": "linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important",
               "-webkit-transition": "0.2s background ease-in-out",
               "transition": "0.2s background ease-in-out"
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
             }
           },
           "_name": "gallery1",

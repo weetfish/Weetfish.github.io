@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "page4.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 51,
+    "uniqCompNum": 53,
     "versionPublish": "4.3.4",
     "theme": {
       "name": "mobirise4",
@@ -32,7 +32,8 @@
       },
       "additionalSetColors": [
         "#d14165",
-        "#c87fff"
+        "#c87fff",
+        "#9553d9"
       ]
     }
   },
@@ -3677,6 +3678,7 @@
           "_name": "gallery1",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"3\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qDQu82lR3D",
+          "_anchor": "gallery1-1e",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -3748,11 +3750,115 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "╭創造專屬魚自己的風格♪",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2690226-719x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2690226-719x1280-719x1280.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "╭創造專屬魚自己的風格♪",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2690228-719x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2690228-719x1280-719x1280.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "╭創造專屬魚自己的風格♪",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2690231-719x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2690231-719x1280-719x1280.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "╭創造專屬魚自己的風格♪",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2690236-719x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2690236-719x1280-719x1280.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "╭創造專屬魚自己的風格♪",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/7403604833242-1006x1628.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7403604833242-1006x1628-800x1294.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "╭創造專屬魚自己的風格♪",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2690244-710x1173.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2690244-710x1173-710x1173.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "╭創造專屬魚自己的風格♪",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2690242-719x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2690242-719x1280-719x1280.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "╭創造專屬魚自己的風格♪",
                 "active": true
               }
             ]
+          }
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "P": {
+              "color": "#9553d9"
+            }
           },
-          "_anchor": "gallery1-1e"
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>❧人生最大的失敗不是跌倒而是不敢向前跑☿ </b></p><p><b>ℇ人生要出至眾要不就出局↯受了傷拍拍身上的沙我還是得跑℈° </b></p><p><b>℘再累再苦再痛也要告訴自己◞要活出耀眼且豐盛的自己♛ </b></p><p><b>ˁ¸做個要狠、要辣、要勇敢的女人¸ˀ</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qInDWoGN9a",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1g"
         }
       ]
     },

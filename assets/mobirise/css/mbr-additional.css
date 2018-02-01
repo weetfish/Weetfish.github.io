@@ -3850,6 +3850,18 @@ body {
 .cid-qDQu82lR3D .mbr-gallery-item > div > span {
   text-align: center;
 }
+.cid-qInDWoGN9a {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qInDWoGN9a .mbr-text,
+.cid-qInDWoGN9a blockquote {
+  color: #767676;
+}
+.cid-qInDWoGN9a P {
+  color: #9553d9;
+}
 .cid-qy0fvGqxqy .navbar {
   padding: .5rem 0;
   background: #333333;

@@ -36,7 +36,8 @@
         "#9553d9",
         "#000000",
         "#f0e51e",
-        "#ff1514"
+        "#ff1514",
+        "#e42152"
       ]
     }
   },
@@ -474,14 +475,14 @@
               "color": "#cc2952"
             },
             "P": {
-              "color": "#ff1514",
+              "color": "#e42152",
               "text-align": "left"
             },
             "H1": {
               "text-align": "center"
             },
             "B": {
-              "color": "#ff3366"
+              "color": "#f7ed4a"
             }
           },
           "_name": "header9",

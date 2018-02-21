@@ -1724,10 +1724,17 @@ body {
 }
 .cid-qy0g4F9bXE H3 {
   text-align: left;
-  color: #f7ed4a;
+  color: #cc2952;
 }
 .cid-qy0g4F9bXE P {
-  color: #f9f295;
+  color: #ff1514;
+  text-align: left;
+}
+.cid-qy0g4F9bXE H1 {
+  text-align: center;
+}
+.cid-qy0g4F9bXE B {
+  color: #ff3366;
 }
 .cid-qy0fvGqxqy .navbar {
   padding: .5rem 0;
